@@ -5,8 +5,8 @@
 
 ### About My Projects
 - 🔭 I’m currently leading on [PII Detection in Mandarin group](https://github.com/Aggregate-Intellect/bigscience_aisc_pii_detection) for the [BigScience Research Project](https://bigscience.huggingface.co/).
-- 📉 My first web app from a logn time ago: Asset Allocation based on various asset classes forecast. Web Demo [here](https://stormy-dawn-49490.herokuapp.com/), though not in maintenance.
-- 🧾 My first take home challenge with data analysis with [Olist](https://github.com/ianyu93/olist) data
+- 📉 My first web app (Jan, 2021) from a logn time ago: Asset Allocation based on various asset classes forecast. Web Demo [here](https://stormy-dawn-49490.herokuapp.com/), though not in maintenance.
+- 🧾 My first take home challenge with data analysis (March, 2021) with [Olist](https://github.com/ianyu93/olist) data
 - 🧑‍💻 Will be publishing some new technology projects soon
 - 🔥 Looking for passion projects
 <!--
