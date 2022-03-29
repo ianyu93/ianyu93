@@ -4,7 +4,8 @@
 - 📫 How to reach me: [ian.yu@arc.com.co](mailto:ian.yu@arc.com.co)
 
 ### About My Projects
-- 🔭 I led [PII Detection in Mandarin group](https://github.com/Aggregate-Intellect/bigscience_aisc_pii_detection) and worked on [Data Tooling](https://github.com/bigscience-workshop/data_tooling) for the [BigScience Research Project](https://bigscience.huggingface.co/).
+- 🔭 I led PII Detection in Mandarin group, worked on [Data Tooling](https://github.com/bigscience-workshop/data_tooling) and [muliwai](https://github.com/ontocord/muliwai) for the [BigScience Research Project](https://bigscience.huggingface.co/).
+- Data-Centric ML believer. Compiled resources for [Data-centric Natural Language Processing](https://ai.science/l/89be6ae3-db92-4a4e-a93e-2aac0551a9a9)
 - 📉 My first web app (Jan, 2021) from a logn time ago: Asset Allocation based on various asset classes forecast. Web Demo [here](https://stormy-dawn-49490.herokuapp.com/), though not in maintenance.
 - 🧾 My first take home challenge with data analysis (March, 2021) with [Olist](https://github.com/ianyu93/olist) data
 - 🧑‍💻 Will be publishing some new technology projects soon
