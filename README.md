@@ -6,6 +6,7 @@
 ### About My Projects
 - 🔭 Co-Author of [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://openreview.net/forum?id=UoEw6KigkUn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23author-tasks)&t=1655296778199)
 - 🌱 Maintainer of [PIISA Project](https://github.com/piisa)
+- 🤗 Contributor to [SantaCoder]([url](https://huggingface.co/bigcode/santacoder))
 
 <!--
 **ianyu93/ianyu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
