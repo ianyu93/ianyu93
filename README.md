@@ -1,24 +1,17 @@
 ### Hi there 👋 this is Ian!
 
-- 🔡 Work wtih NLP everyday, but time series is my crush. 
-- 📫 How to reach me: [ian.yu@arc.com.co](mailto:ian.yu@arc.com.co)
+Investigate the mechanism of things and putting them to practice is like having fun for me. And the world is a big playground. Not because of some forced objectives, nor is it just temporary happiness, but the intrinsic joy curiosity brings me. It's what keeps me going in face of obstacles and frustrations. It's what allows me to continue drawing and connecting the dots along the way. I think that's what a lifelong learner is like.
 
-### About My Projects
-- 🔭 Co-Author of [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://openreview.net/forum?id=UoEw6KigkUn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23author-tasks)&t=1655296778199)
-- 🌱 Maintainer of [PIISA Project](https://github.com/piisa)
-- 🤗 Contributor to [SantaCoder]([url](https://huggingface.co/bigcode/santacoder))
+One trait is to form firm opinions on specific topics, and continue to shape them as I gain more wider knowledge and experience. 
 
-<!--
-**ianyu93/ianyu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professionally, they include:
+- Data enrichment systems, information extraction & retrieval with internally built ontology to organize information
+- When to use LLMs and when to use non-LLM models, and how to design systems to take advantage of both worlds
+- When to use a dedicated vector database (Qdrant, LandeDB) vs. when to use vector extension of incumbent (Postgres, Mongo), and how vector databases are becoming specialized search engines
+- I can spin up Ray on Kubernetes to autoscale, but I still want to look for simplest and cheapest solution possible first
+- Evaluation, metrics, and error analysis tailored to the use case is key to LLM-based systems, and generic evaluation library / SaaS just can’t cut it, unless your use case is also generic
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personally, they include:
+- What is a real “good coffee”
+- I don’t order pasta at a restaurant
+- I really want to go sing at karaoke right now!
